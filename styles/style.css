@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+  /* font-family: "Poppins" */
+
+  #navbar{
+
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+  
+  }
+    .navbarTitle{
+    color: #3A3A3A;
+    font-family:Poppins ;
+    font-weight:bold;
+    font-size: 24px;
+  }
+
+  .navbarList{
+  display: flex;
+   gap: 20px;
+  }
+ 
+
+  .navbar, div, li, a{
+    color: #424242;
+    font-size: 18px;
+    font-weight: 600;
+      font-family:Poppins ;
+    text-decoration: none;
+    list-style: none;
+    margin-top: 10px;
+  }
+
+
+  /* Banner section---------------------------------- */
+
+  .banner{
+    display: flex;
+    gap: 220px;
+    margin: 20px;
+  }
+
+  .bannerTitle{
+    color: #3A3A3A;
+    font-size: 50px;
+    font-weight: bold;
+       font-family:Poppins ;
+  }
+
+  .bannerPg{
+        color: #3A3A3A;
+    font-size: 15px;
+    font-weight: 500;
+       font-family:Poppins ;
+  }
+
+  .btn{
+    background-color: #E02C6D;
+    color: #FFFFFF;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+  }
+
+  .bgImg{
+      background-image: url('../images/Circle\ design.svg');
+  background-size: 450px;
+  background-repeat: no-repeat;
+  }
+
