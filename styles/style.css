@@ -131,3 +131,33 @@
   font-family: Inter;
   font-weight: bold;
 }
+
+
+.SeeColor{
+  color: #E02C6D;
+  text-align: end;
+  margin: 20px;
+}
+
+
+/* main Flex Section------------------- */
+
+#mainFlex{
+  display: flex;
+  gap: 40px;
+  margin: 20px;
+}
+
+.FeaturedColor{
+  color: #0A0826;
+        font-size: 35px;
+    font-weight: bold;
+       font-family:Poppins ;
+}
+
+.FeaturedPg{
+  color: #6C6C6C;
+          font-size: 15px;
+    font-weight: bold;
+       font-family:Poppins ;
+}
